@@ -142,4 +142,5 @@ cython_debug/
 media
 static
 
-
+# JetBrains tools
+.idea/
